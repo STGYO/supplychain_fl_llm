@@ -1,0 +1,17 @@
+flwr==1.14.0
+numpy==1.26.4
+pandas==2.2.2
+torch==2.3.1
+web3==6.20.1
+py-solc-x==2.0.3
+pyomo==6.8.2
+fastapi==0.115.0
+uvicorn==0.30.6
+streamlit==1.39.0
+plotly==5.24.1
+langchain==0.2.16
+langchain-openai==0.1.23
+python-dotenv==1.0.1
+requests==2.32.3
+scikit-learn==1.5.2
+pydantic==2.9.2
